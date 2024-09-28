@@ -1,4 +1,4 @@
 def call (){
  sh 'echo hi rachan'
- sh ' hi how are u'
+ sh 'echo hi how are u'
  }
