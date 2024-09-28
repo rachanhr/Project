@@ -1,4 +1,3 @@
 def call (){
- sh 'echo
- hi rachan'
+ sh 'echo hi rachan'
 }
