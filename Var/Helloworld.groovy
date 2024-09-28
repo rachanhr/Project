@@ -1,2 +1,3 @@
-def call ()
-{ sh 'echo hi rachan'}
+def call (){
+ sh 'echo hi rachan'
+}
